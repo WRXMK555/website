@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
@@ -16,3 +15,15 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+## REMOVE ABOVE AND INSERT STUFF HERE
+
+
+##### Many thanks to [Hoi Kay](hoikay.li) for getting the base of the site up
+<br>
+© MK 2021 unless stated otherwise. 
+
+
+
+
+
