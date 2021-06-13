@@ -6,4 +6,3 @@ layout: home
 title: Home
 ---
 
-###### Jekyll start by [Hoi Kay](https://hoikay.li)
