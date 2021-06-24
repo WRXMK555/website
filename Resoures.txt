@@ -1,0 +1,4 @@
+Installing tools needed for this site: https://www.kiltandcode.com/2020/04/30/how-to-create-a-blog-using-jekyll-and-github-pages-on-windows/
+How to use markdown: https://www.markdownguide.org/tools/jekyll/
+
+If you get a webrick error on the first round try the fixes in here: https://github.com/jekyll/jekyll/issues/8523
